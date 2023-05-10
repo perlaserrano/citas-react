@@ -1,6 +1,8 @@
 
 
-function Header (){
+function Header (numeros){
+
+    console.log(numeros);
     return (
         <>
     
